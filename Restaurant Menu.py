@@ -1,0 +1,7 @@
+print("Welcome to Paradise Restaurant")
+fav1 = input("Enter your favourite starter ")
+fav2 = input("Enter your favourite main dish ")
+fav3 = input("Enter your favourite dessert ")
+fav4 = input("Enter your favourite drink ")
+print("Enjoy your favourite meal", fav1 +" "+fav2+" "+fav3, "with a glass of", fav4)
+print("Have a lovely time!")
